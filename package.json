@@ -1,0 +1,25 @@
+{
+  "name": "middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhay9061/middleware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhay9061/middleware/issues"
+  },
+  "homepage": "https://github.com/abhay9061/middleware#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.99.2",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
